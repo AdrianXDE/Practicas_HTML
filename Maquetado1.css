@@ -1,0 +1,132 @@
+.FondoNav{
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(95, 195, 120);
+    border: 10px solid rgb(12, 1, 1);
+    align-items: center;
+    justify-content: center;
+    align-content:center;
+    display:flex ;
+}
+
+.BoxNav{
+width: 170px;
+height: 50px;
+border: solid 1px  rgba(24, 24, 189, 0.936);
+background-color: rgba(193, 197, 220, 0.741);
+float: left;
+margin: 40px;
+justify-content: center;
+align-content:center;
+
+}
+.text{
+    font-style: oblique;
+    text-align: center;
+}
+
+/* Estilos para el encabezado */
+.FondoHeader {
+    width: 1000px;
+    height: 300px;
+    background-color: rgb(98, 98, 185);
+    border: 10px solid #000000fe;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+}
+
+.Banner {
+    display: flex;
+    width: 800px;
+    height: 250px;
+    background-color: antiquewhite;
+    border: 2px solid rgb(203, 132, 56);
+    margin-bottom: 20px; /* Espacio entre el banner y los elementos */
+}
+
+/* Estilos para el contenedor de logo, login y form */
+.LogoContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end; /* Alinea los elementos a la derecha */
+    width: 250px; /* Ancho del contenedor */
+    height: 200px; /* Altura automática */
+    margin-right: 20px; /* Espacio a la derecha */
+}
+
+/* Estilos para los elementos de logo, login y form */
+.logo, .login, .form {
+    width: 80px;
+    height: 40px;
+    background-color: antiquewhite;
+    border: 2px solid rgb(203, 132, 56);
+    margin-bottom: 10px; /* Espacio entre los elementos */
+}
+
+
+.FondoMain {
+    width: 1000px;
+    height: 500px;
+    background-color: rgb(182, 185, 98);
+    border: 10px solid #000000fe;
+}
+
+.Cont-A1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 900px;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+}
+.Cont-A2 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 900px;
+    margin-left: 10px;
+    margin-right: 5px;
+   
+}
+
+.Aside1 {
+    width: 200px;
+    height: 450px;
+    background-color: beige;
+    border: 2px solid green;
+    float: left;
+}
+
+.Aside2 {
+    width: 200px;
+    height: 450px;
+    background-color: beige;
+    border: 2px solid green;
+    float: right;
+}
+
+.Cont-Art{
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    margin-right: 20px;
+}
+
+.Article {
+    width: 500px;
+    height: 450px;
+    background-color: beige;
+    border: 2px solid green;
+    margin-left: 20px;
+    text-align: center;
+}
+
+
+
+.XD{
+    width: 1000px;
+    height: 50px;
+    background-color: rgb(185, 149, 98);
+    border: 10px solid #000000fe;
+
+}

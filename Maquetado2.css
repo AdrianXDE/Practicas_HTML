@@ -1,0 +1,75 @@
+.Cen{
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.Header{
+width: 750px;
+ height: 250px;
+ background-color: rgb(37, 86, 192);
+ border: 10px solid rgb(0, 0, 0);
+}
+
+.Banner{
+    width: 500px;
+    height: 230px;
+    background-color: beige;
+    border: 2px solid black;
+    margin: 20px;margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+}
+
+.Logo{
+    width: 230px;
+    height: 230px;
+    background-color: beige;
+    border: 2px solid black;
+    float: right;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+
+.Nav{
+    width: 750px;
+    height: 50px;
+    background-attachment: fixed;
+    border: 10px solid rgb(0, 0, 0);
+    background-color: rgb(58, 166, 66);
+}
+
+
+
+.Main{
+    width: 750px;
+    height: 400px;
+    background-color: rgb(182, 185, 98);
+    border: 10px solid rgb(0, 0, 0);
+}
+
+.Aside{
+    width: 225px;
+    height: 390px;
+    background-color: beige;
+    border: 2px solid rgb(255, 187, 40);
+    float:right;
+}
+
+.Article{
+    width: 450 ;
+    height: 390px;
+    background-color: beige;
+    border: 2px solid rgb(255, 187, 40);
+}
+
+.Foot{
+    width: 750px;
+    height: 50px;
+    background-color: rgb(253, 146, 65);
+    border: 10px solid rgb(0, 0, 0);
+
+}
+

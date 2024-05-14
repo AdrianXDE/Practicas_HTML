@@ -1,0 +1,29 @@
+
+nav{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+.Titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 200px;
+}
+
+.Header, .Main, .Header2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+body{
+    background-image: url('Imagenes/SISI.jpeg'); /* Cambia 'ruta/a/tu/imagen.jpg' por la ruta de tu imagen */
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir toda la pantalla */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; 
+}
+
+.Header2{
+    background-color: rgba(255, 235, 205, 0.468);
+}
