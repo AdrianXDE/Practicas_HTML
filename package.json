@@ -1,0 +1,15 @@
+{
+  "name": "pag",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": " purgecss --css Sass/custom.css --content PracticaBootstrap.html --output sass/reducido.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
